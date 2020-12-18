@@ -1,0 +1,47 @@
+
+p
+{
+    text-align:right ;
+    color: yellow;
+}
+ul
+{
+    font-size:x-large;
+}
+.em
+{
+    background-color:pink;
+}
+#anh
+{
+    background-color:brown;
+}
+h1:hover
+{
+    font-family: 'Monsieur La Doulaise', cursive;
+color:gold;
+}
+.MAJOR
+{
+  display: inline;
+ 
+  background-color: chartreuse;
+}
+.MINOR
+{
+    
+    display: inline;
+    background-color: deeppink;
+    
+  
+}
+.pi
+{
+    position: fixed;
+    left: 10px;
+    top: 50px;
+}
+#titil
+{
+    background-color:#ff4c68;
+}
